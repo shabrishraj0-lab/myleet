@@ -15,4 +15,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shabrishraj0-lab/myleet/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/shabrishraj0-lab/myleet/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/shabrishraj0-lab/myleet/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 <!---LeetCode Topics End-->
