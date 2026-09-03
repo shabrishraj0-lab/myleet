@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/shabrishraj0-lab/myleet/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/shabrishraj0-lab/myleet/tree/main/0056-merge-intervals/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/shabrishraj0-lab/myleet/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Hash Table
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/shabrishraj0-lab/myleet/tree/main/0054-spiral-matrix/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/shabrishraj0-lab/myleet/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -32,4 +34,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/shabrishraj0-lab/myleet/tree/main/0056-merge-intervals/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/shabrishraj0-lab/myleet/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
