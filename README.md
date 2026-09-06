@@ -44,4 +44,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/shabrishraj0-lab/myleet/tree/main/0088-merge-sorted-array/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/shabrishraj0-lab/myleet/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
