@@ -91,5 +91,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/shabrishraj0-lab/myleet/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/shabrishraj0-lab/myleet/tree/main/0143-reorder-list/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/shabrishraj0-lab/myleet/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/shabrishraj0-lab/myleet/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
