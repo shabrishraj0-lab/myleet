@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/shabrishraj0-lab/myleet/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/shabrishraj0-lab/myleet/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/shabrishraj0-lab/myleet/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0503-next-greater-element-ii](https://github.com/shabrishraj0-lab/myleet/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/shabrishraj0-lab/myleet/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/shabrishraj0-lab/myleet/tree/main/0143-reorder-list/) | Medium |
+| [0503-next-greater-element-ii](https://github.com/shabrishraj0-lab/myleet/tree/main/0503-next-greater-element-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,4 +103,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/shabrishraj0-lab/myleet/tree/main/0020-valid-parentheses/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/shabrishraj0-lab/myleet/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->
